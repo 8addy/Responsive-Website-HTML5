@@ -14,6 +14,13 @@ body{
 	margin: auto;
 	overflow: hidden;
 }
+.dark{
+  padding:15px;
+  background:#35424a;
+  color:#ffffff;
+  margin-top:10px;
+  margin-bottom:10px;
+}
 
 ul{
 	margin: 0;
@@ -132,6 +139,24 @@ header a:hover{
 #boxes .box img{
 	width: 90px;
 }
+
+/*Page About*/
+/*Main*/
+#main{
+	padding: 10px;
+}
+
+#main #main-col{
+	float: left;
+	width: 65%;
+}
+
+#main #sidebar{
+	float: right;
+	width: 30%;
+}
+
+
 
 /*Footer*/
 footer{
